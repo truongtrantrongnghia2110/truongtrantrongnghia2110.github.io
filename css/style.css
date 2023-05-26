@@ -6,8 +6,8 @@
 
 body {
 	font-family: Arial, sans-serif;
+	
 }
-
 header {
 	background-color: #5c97d1;
 	padding: 20px;
@@ -78,6 +78,16 @@ section h2 {
 .btn:hover {
 	background-color: #1c2665;
 }
+.center{
+	text-align: center;
+
+}
+.ab{
+	text-align: justify;
+	padding-left: 400px;
+	padding-right: 400px;
+}
+
 
 footer {
 	background-color: #41dd9e;
